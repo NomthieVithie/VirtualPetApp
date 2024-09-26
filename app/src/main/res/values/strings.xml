@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">assignment 2</string>
+    <string name="txtWelcome">Welcome To Rex
+    Your Tamagotchi App</string>
+    <string name="button">Get Started</string>
+    <string name="btnFeed">Feed</string>
+    <string name="btnClean">Clean</string>
+    <string name="btnPlay">Play</string>
+    <string name="txtHunger">Hunger</string>
+    <string name="txtClean">Clean</string>
+    <string name="txtHappy">Happy</string>
+    <string name="ImageView2">Image</string>
+    <string name="txtHunger2">Hunger</string>
+    <string name="txtClean2">Clean</string>
+    <string name="txtHappy2">Happy</string>
+    <string name="home2">Home2</string>
+
+</resources>
